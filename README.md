@@ -1,6 +1,6 @@
 # OM-Diatom-Classification-Yolo-MobileNet
 # Architecture
-* YOLO + FCN + MobileNetV2
+* YOLO + U-Net + MobileNetV2
 * YOLO: dectect where the object is.
 * ![0](imgs/1.png)
 * FCN: segment from background.
