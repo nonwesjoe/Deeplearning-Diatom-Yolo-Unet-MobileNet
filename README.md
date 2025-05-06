@@ -6,9 +6,9 @@
 * get individual diatom
 ![0](imgs/1.png)
 ### U-Net: segment from background.
-* model architecture
+* model architecture 
 ![0](imgs/unet.png)
-* segment and data augmentation
+* segment and data augmentation 
 ![0](imgs/seg1.png)
 ### MobileNetV2: classify them.
 * model architecture
